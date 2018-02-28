@@ -1,0 +1,28 @@
+{
+  "name": "strict-map",
+  "version": "0.0.0",
+  "description": "Stricter Map",
+  "main": "index.js",
+  "repository": "https://github.com/jamiebuilds/strict-map",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "keywords": [
+    "strict",
+    "map",
+    "flow",
+    "typescript",
+    "ts"
+  ],
+  "files": [
+    "index.js",
+    "index.js.flow",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "flow-bin": "^0.66.0"
+  }
+}
